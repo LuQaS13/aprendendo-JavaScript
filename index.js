@@ -6,6 +6,6 @@ area_retangulo = base_num * altura_num
 
 function areaTotal(){
 
-    document.innerHTML(area_retangulo) = area_retangulo
+    document.innerHTML("area_retangulo") = area_retangulo
 
 };
